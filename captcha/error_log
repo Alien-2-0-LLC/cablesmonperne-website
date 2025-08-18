@@ -1,0 +1,164 @@
+[19-Jul-2024 05:06:19 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:06:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:06:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:06:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:06:26 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:06:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:06:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:06:26 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:06:30 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:06:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:06:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:06:30 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:06:31 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:06:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:06:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:06:31 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:06:32 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:06:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:06:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:06:32 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:06:34 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:06:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:06:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:06:34 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:06:34 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:06:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:06:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:06:34 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:06:35 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:06:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:06:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:06:35 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:08 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:08 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:09 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:09 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:10 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:10 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:11 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:11 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:12 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:12 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:13 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:13 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:14 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:14 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:14 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:14 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:15 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:15 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:16 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:16 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:17 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:17 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:18 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:19 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:19 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:19 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:20 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:21 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:21 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:22 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:22 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:22 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:23 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:23 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:10:30 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:10:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:10:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:10:30 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:14:18 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:14:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:14:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:14:18 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:17:54 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:17:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:17:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:17:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:17:55 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:17:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:17:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:17:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:20:24 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:20:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:20:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:20:24 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:20:27 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:20:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:20:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:20:27 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:21:13 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:21:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:21:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:21:13 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:23:24 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:23:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:23:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:23:24 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:23:29 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:23:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:23:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:23:29 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:26:57 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:26:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:26:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:26:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:27:12 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:27:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:27:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:27:12 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
+[19-Jul-2024 05:28:23 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 67
+[19-Jul-2024 05:28:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 69
+[19-Jul-2024 05:28:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 70
+[19-Jul-2024 05:28:23 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/kvitb9b41x0z/public_html/captcha/get_captcha.php on line 79
