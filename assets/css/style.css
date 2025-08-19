@@ -87,6 +87,20 @@ main {
   z-index: 5;
 }
 
+/* ====================== Form controls ====================== */
+/* Chrome, Safari, Edge, Opera */
+#form_phone::-webkit-outer-spin-button,
+#form_phone::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+#form_phone[type=number] {
+  -moz-appearance: textfield;
+}
+/* ====================== Form controls ====================== */
+
 .row.sm-marg {
   margin-left: -5px;
   margin-right: -5px;

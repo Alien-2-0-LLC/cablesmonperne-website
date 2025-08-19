@@ -1279,6 +1279,44 @@ $(document).ready(function () {
     $("#contact-form").submit(function (e) {
         e.preventDefault();
 
+        let isValid = true;
+
+        // Hide all errors initially
+        $(".error-message").hide();
+
+        // Validate name
+        const name = $("#form_name").val().trim();
+        if (name === "") {
+            $("#name-error").show();
+            isValid = false;
+        }
+
+        // Validate email
+        const email = $("#form_email").val().trim();
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailRegex.test(email)) {
+            $("#email-error").show();
+            isValid = false;
+        }
+
+        // Validate phone (10 digits only)
+        const phone = $("#form_phone").val().trim();
+        const phoneRegex = /^[0-9]{10}$/;
+        if (!phoneRegex.test(phone)) {
+            $("#phone-error").show();
+            isValid = false;
+        }
+
+        // Validate message
+        const message = $("#form_message").val().trim();
+        if (message === "") {
+            $("#message-error").show();
+            isValid = false;
+        }
+
+        // If validation fails, stop here
+        if (!isValid) return;
+
         // Get form elements
         const $form = $(this);
         const $submitBtn = $("#submit-btn");
@@ -1304,40 +1342,32 @@ $(document).ready(function () {
             processData: false,
             contentType: false,
             success: function (response) {
-                // Show success message in the messages div
                 $messages.html(`
-                            <div class="alert alert-success">
-                                <div>
-                                    <i class="fas fa-check-circle"></i>
-                                    <strong>¡Gracias por tu consulta!</strong>
-                                    <p style="color: #0f5132;">A la brevedad te contactaremos</p>
-                                </div>
-                            </div>
-                        `);
-
-                // Reset form
+                    <div class="alert alert-success">
+                        <div>
+                            <i class="fas fa-check-circle"></i>
+                            <strong>¡Gracias por tu consulta!</strong>
+                            <p style="color: #0f5132;">A la brevedad te contactaremos</p>
+                        </div>
+                    </div>
+                `);
                 $form[0].reset();
             },
             error: function (xhr) {
                 console.error("Error:", xhr.statusText);
-
-                // Show error message in the messages div
                 $messages.html(`
-                            <div class="alert alert-danger">
-                                <i class="fas fa-exclamation-triangle"></i>
-                                <div>
-                                    <strong>Error al enviar</strong>
-                                    <p>Por favor intenta de nuevo más tarde</p>
-                                </div>
-                            </div>
-                        `);
+                    <div class="alert alert-danger">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        <div>
+                            <strong>Error al enviar</strong>
+                            <p>Por favor intenta de nuevo más tarde</p>
+                        </div>
+                    </div>
+                `);
             },
             complete: function () {
-                // Reset button state
                 $buttonText.text(originalBtnText);
                 $submitBtn.prop("disabled", false);
-
-                // Scroll to messages
                 $("html, body").animate(
                     {
                         scrollTop: $messages.offset().top - 100,
@@ -1346,5 +1376,10 @@ $(document).ready(function () {
                 );
             },
         });
+    });
+
+    // Hide errors on typing
+    $("#form_name, #form_email, #form_phone, #form_message").on("input", function () {
+        $(this).next(".error-message").hide();
     });
 });

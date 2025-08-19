@@ -739,18 +739,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="col-lg-6">
                                             <div class="form-group mb-30">
                                                 <input id="form_name" type="text" name="name" placeholder="Nombre" required>
+                                              <div style="display: none;" class="error-message" id="name-error">Por favor ingrese su nombre</div>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6">
                                             <div class="form-group mb-30">
                                                 <input id="form_email" type="email" name="email" placeholder="Correo electrónico" required>
+                                              <div style="display: none;" class="error-message" id="email-error">Por favor ingrese un correo electrónico válido</div>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-12">
                                             <div class="form-group mb-30">
-                                                <input id="form_phone" type="tel" name="phone" placeholder="Telefono" required>
+                                                <input id="form_phone" type="number" name="phone" placeholder="Telefono" required>
+                                              <div style="display: none;" class="error-message" id="phone-error">Por favor ingrese un número de teléfono válido (10 dígitos)</div>
                                             </div>
                                         </div>
 
@@ -763,6 +766,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="col-12">
                                             <div class="form-group">
                                                 <textarea id="form_message" name="message" placeholder="Mensaje" rows="4" required></textarea>
+                                              <div style="display: none;"  class="error-message" id="message-error">Por favor ingrese un mensaje</div>
                                             </div>
                                             <div class="mt-30">
                                                 <button type="submit" class="butn butn-full butn-bord radius-30">
