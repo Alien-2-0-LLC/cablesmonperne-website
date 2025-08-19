@@ -731,7 +731,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-lg-6 offset-lg-1 valign">
                             <div class="full-width">
-                                <form id="contact-form" method="post" action="contact.php">
+                                <form id="contact-form" method="post">
+                                    <div class="messages"></div>
+
+                                    <div class="controls row">
+
+                                        <div class="col-lg-6">
+                                            <div class="form-group mb-30">
+                                                <input id="form_name" type="text" name="name" placeholder="Nombre" required>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6">
+                                            <div class="form-group mb-30">
+                                                <input id="form_email" type="email" name="email" placeholder="Correo electrónico" required>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-12">
+                                            <div class="form-group mb-30">
+                                                <input id="form_phone" type="tel" name="phone" placeholder="Telefono" required>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-12">
+                                            <div class="form-group mb-30">
+                                                <input id="form_subject" type="text" name="Subject" placeholder="Producto">
+                                            </div>
+                                        </div>
+
+                                        <div class="col-12">
+                                            <div class="form-group">
+                                                <textarea id="form_message" name="message" placeholder="Mensaje" rows="4" required></textarea>
+                                            </div>
+                                            <div class="mt-30">
+                                                <button type="submit" class="butn butn-full butn-bord radius-30">
+                                                    <span class="text">Enviar</span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                                <!-- <form id="contact-form" method="post" action="contact.php">
 
                                     <div class="messages"></div>
 
@@ -778,7 +819,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </div>
 
                                     </div>
-                                </form>
+                                </form> -->
                             </div>
                         </div>
                     </div>
