@@ -226,7 +226,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-lg-6 offset-lg-1 valign">
                             <div class="full-width">
                                 <!-- ==================== SE AGREGA FUNCION ONSUBMIT  PARA SER OBLIGATORIO LA VALIDACION DEL CAPTCHA==================== -->
-                                <form id="ajax-contact" onsubmit="return miFuncion(this)" method="post" action="contacto.php">
+                                <form id="contact-form" method="post">
+                                    <div class="messages"></div>
+
+                                    <div class="controls row">
+
+                                        <div class="col-lg-6">
+                                            <div class="form-group mb-30">
+                                                <input id="form_name" type="text" name="name" placeholder="Nombre" required>
+                                              <div style="display: none;" class="error-message" id="name-error">Por favor ingrese su nombre</div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6">
+                                            <div class="form-group mb-30">
+                                                <input id="form_email" type="email" name="email" placeholder="Correo electrónico" required>
+                                              <div style="display: none;" class="error-message" id="email-error">Por favor ingrese un correo electrónico válido</div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-12">
+                                            <div class="form-group mb-30">
+                                                <input id="form_phone" type="number" name="phone" placeholder="Telefono" required>
+                                              <div style="display: none;" class="error-message" id="phone-error">Por favor ingrese un número de teléfono válido (10 dígitos)</div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-12">
+                                            <div class="form-group mb-30">
+                                                <input id="form_subject" type="text" name="Subject" placeholder="Producto">
+                                            </div>
+                                        </div>
+<div class="g-recaptcha" data-sitekey="6LevlxMqAAAAAP_p32psDxXfk7xnLIfEtTFelJzX"></div>
+                                        <div class="col-12">
+                                            <div class="form-group">
+                                                <textarea id="form_message" name="message" placeholder="Mensaje" rows="4" required></textarea>
+                                              <div style="display: none;"  class="error-message" id="message-error">Por favor ingrese un mensaje</div>
+                                            </div>
+                                            <div class="mt-30">
+                                                <button type="submit" class="butn butn-full butn-bord radius-30">
+                                                    <span class="text">Enviar</span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                                <!-- <form id="ajax-contact" onsubmit="return miFuncion(this)" method="post" action="contacto.php">
 
                                     <div class="messages"></div>
 
@@ -259,9 +304,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     rows="4" required></textarea>
                                             </div>
                                             
-                                            
-                                            <!-- =============== Colocar captcha en el formulario ==================== -->
-<p style="padding-top: 16px;"></p>
+                                            <p style="padding-top: 16px;"></p>
+
                                            <div class="g-recaptcha" data-sitekey="6LevlxMqAAAAAP_p32psDxXfk7xnLIfEtTFelJzX"></div>
                                            
                                            
@@ -273,7 +317,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </div>
 
                                     </div>
-                                </form>
+                                </form> -->
                             </div>
                         </div>
                 </div>
@@ -289,21 +333,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
      <!-- ==================== SCRIPT PARA VALIDAR EL CAPTCHA FORZOSAMENTE ==================== -->
     
-    <script>
-   
-  function miFuncion() {
-    var response = grecaptcha.getResponse();
+    <!-- <script>
+        function miFuncion() {
+            var response = grecaptcha.getResponse();
 
-    if(response.length == 0){
-      alert("Captcha no verificado")
-      return false;
-      event.preventDefault();
-    } else {
-      alert("Captcha verificado");
-      return true;
-    }
-  }
-</script>
+            if(response.length == 0){
+            alert("Captcha no verificado")
+            return false;
+            event.preventDefault();
+            } else {
+            alert("Captcha verificado");
+            return true;
+            }
+        }
+    </script> -->
 
 
             <!-- ==================== Start Footer ==================== -->

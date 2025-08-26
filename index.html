@@ -85,6 +85,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5PZVB8S3');</script>
 <!-- End Google Tag Manager -->
 
+    <!-- ==================== SCRIPT DEL API PARA LLAMAR CAPTCHA DE GOOGLE ==================== -->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>
 
@@ -762,7 +764,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <input id="form_subject" type="text" name="Subject" placeholder="Producto">
                                             </div>
                                         </div>
-
+<div class="g-recaptcha" data-sitekey="6LevlxMqAAAAAP_p32psDxXfk7xnLIfEtTFelJzX"></div>
                                         <div class="col-12">
                                             <div class="form-group">
                                                 <textarea id="form_message" name="message" placeholder="Mensaje" rows="4" required></textarea>
@@ -834,7 +836,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- ==================== End Contact ==================== -->
 
     </main>
+     <!-- ==================== SCRIPT PARA VALIDAR EL CAPTCHA FORZOSAMENTE ==================== -->
+    
+    <!-- <script>
+        function miFuncion() {
+            var response = grecaptcha.getResponse();
 
+            if(response.length == 0){
+            alert("Captcha no verificado")
+            return false;
+            event.preventDefault();
+            } else {
+            alert("Captcha verificado");
+            return true;
+            }
+        }
+    </script> -->
 
 
             <!-- ==================== Start Footer ==================== -->

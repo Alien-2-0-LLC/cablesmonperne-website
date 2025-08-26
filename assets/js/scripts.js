@@ -1314,6 +1314,13 @@ $(document).ready(function () {
             isValid = false;
         }
 
+        // Validate reCAPTCHA
+        const captchaResponse = grecaptcha.getResponse();
+        if (captchaResponse.length === 0) {
+            alert("Por favor verifica el reCAPTCHA");
+            isValid = false;
+        }
+
         // If validation fails, stop here
         if (!isValid) return;
 
@@ -1352,6 +1359,7 @@ $(document).ready(function () {
                     </div>
                 `);
                 $form[0].reset();
+                grecaptcha.reset(); // reset captcha after success
             },
             error: function (xhr) {
                 console.error("Error:", xhr.statusText);
@@ -1383,3 +1391,4 @@ $(document).ready(function () {
         $(this).next(".error-message").hide();
     });
 });
+
