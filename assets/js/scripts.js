@@ -1349,15 +1349,9 @@ $(document).ready(function () {
             processData: false,
             contentType: false,
             success: function (response) {
-                $messages.html(`
-                    <div class="alert alert-success">
-                        <div>
-                            <i class="fas fa-check-circle"></i>
-                            <strong>¡Gracias por tu consulta!</strong>
-                            <p style="color: #0f5132;">A la brevedad te contactaremos</p>
-                        </div>
-                    </div>
-                `);
+                // Redirect to enviomail.html
+                window.location.href = '/enviomail.html';
+                // Optional: reset form and captcha before redirecting
                 $form[0].reset();
                 grecaptcha.reset(); // reset captcha after success
             },
